@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/kostyajs/rsschool-cv/cv
